@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B4DDF7D1E609BAF004EFEE7 /* ListaLugaresTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4DDF7C1E609BAF004EFEE7 /* ListaLugaresTableViewController.swift */; };
+		8B4DDF7F1E609BC3004EFEE7 /* MapaLugaresFavoritosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4DDF7E1E609BC3004EFEE7 /* MapaLugaresFavoritosViewController.swift */; };
 		8B591CD51E57793200F4199F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B591CD41E57793200F4199F /* AppDelegate.swift */; };
 		8B591CD71E57793200F4199F /* PrimerMapaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B591CD61E57793200F4199F /* PrimerMapaViewController.swift */; };
 		8B591CDA1E57793200F4199F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B591CD81E57793200F4199F /* Main.storyboard */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B4DDF7C1E609BAF004EFEE7 /* ListaLugaresTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListaLugaresTableViewController.swift; sourceTree = "<group>"; };
+		8B4DDF7E1E609BC3004EFEE7 /* MapaLugaresFavoritosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapaLugaresFavoritosViewController.swift; sourceTree = "<group>"; };
 		8B591CD11E57793200F4199F /* App_IntroMapas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App_IntroMapas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B591CD41E57793200F4199F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B591CD61E57793200F4199F /* PrimerMapaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimerMapaViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				8B591CD41E57793200F4199F /* AppDelegate.swift */,
 				8B591CD61E57793200F4199F /* PrimerMapaViewController.swift */,
 				8B591CEB1E5794DC00F4199F /* DireccionesViewController.swift */,
+				8B4DDF7C1E609BAF004EFEE7 /* ListaLugaresTableViewController.swift */,
+				8B4DDF7E1E609BC3004EFEE7 /* MapaLugaresFavoritosViewController.swift */,
 				8B591CD81E57793200F4199F /* Main.storyboard */,
 				8B591CDB1E57793200F4199F /* Assets.xcassets */,
 				8B591CDD1E57793200F4199F /* LaunchScreen.storyboard */,
@@ -158,6 +164,8 @@
 				8B591CD71E57793200F4199F /* PrimerMapaViewController.swift in Sources */,
 				8B591CD51E57793200F4199F /* AppDelegate.swift in Sources */,
 				8B591CEC1E5794DC00F4199F /* DireccionesViewController.swift in Sources */,
+				8B4DDF7F1E609BC3004EFEE7 /* MapaLugaresFavoritosViewController.swift in Sources */,
+				8B4DDF7D1E609BAF004EFEE7 /* ListaLugaresTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,6 +325,7 @@
 				8B591CE51E57793200F4199F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
